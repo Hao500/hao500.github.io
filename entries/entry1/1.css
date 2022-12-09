@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(245, 204, 128);
+    font-family: verdana;
+    font-size: 300%;
+  
+  }
+body{
+    background-color:rgb(58, 77, 53);
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }

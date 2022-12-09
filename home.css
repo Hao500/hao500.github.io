@@ -1,0 +1,15 @@
+
+h1 {
+  font-family:"Monoton",sans-serif;
+  font-size: 3000%;
+  color: blanchedalmond
+}
+
+body{
+
+background-color: black;
+}
+
+#ul-nb {
+  list-style: none;
+}

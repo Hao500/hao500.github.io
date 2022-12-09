@@ -1,0 +1,34 @@
+.left{
+    position:fixed;
+    right:1000px;
+    top: 100px;
+    text-align: right;
+    line-height: 1.6;
+    font-family:'Courier New', Courier, monospace;
+}
+
+
+.right{
+    position:fixed;
+    left:1000px;
+    top: 100px;
+    text-align: left ;
+    line-height: 1.6;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.middle{
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    top: 150px;
+    margin: -50px 0 0 -50px;
+    line-height: 1.6;
+   font-family: 'Courier New', Courier, monospace;  
+}
+
+
+.background_image{
+    background-image:'../../imgs/entry11.2.jpeg';
+}
